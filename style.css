@@ -1,0 +1,11 @@
+.aside img{
+    height: 50%; 
+    width: 50%;
+    display: inline-flex;
+}
+ .parteinterior{
+    display: flex;
+}
+footer img{
+    width: 80%;
+}
