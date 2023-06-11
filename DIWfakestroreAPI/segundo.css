@@ -1,0 +1,47 @@
+#flex{     
+    
+   
+    max-width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    align-items: center;
+    vertical-align: top;
+    margin: 0 auto;
+    box-shadow: rgb(187, 181, 181) 0.5em 0.5em 0.3em;
+    
+    
+     
+ }
+ #titulo{
+    width: 50%;
+ }
+ #img{
+    width: 50%;
+ }
+ .descricao{
+    font-style: italic;
+ }
+ #caixa{
+   max-width: 1000px;
+   
+   display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+ }
+ #produtos{
+   width: 80%;
+ }
+ /*.imagem{
+   width: 200px;
+   height: 200px;
+  
+ }*/
+ .cardbusca{
+   width: 50%;
+   
+ }
+ #sessao{
+   max-width: 100%;
+ }
